@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Muhammad Awais Khalid 👋
 
-<!--
-**muhammadawaiskhalid/muhammadawaiskhalid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Software Developer
 
-Here are some ideas to get you started:
+I'm building my software development skills through practical projects, starting from the fundamentals and progressing toward full-stack development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies
+
+- HTML
+- CSS
+- JavaScript
+- Java
+- MySQL
+- Git & GitHub
+
+## 🌱 Currently Learning
+
+Building projects from requirements and development through testing, documentation, and deployment.
+
+## 🚀 Projects
+
+Projects will be added here as I build them.
+
+## 🎯 Goal
+
+To become a professional full-stack software developer by building real-world applications and continuously improving my development skills.
